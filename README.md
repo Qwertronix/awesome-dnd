@@ -82,6 +82,8 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 * [Dungeonomics](http://dungeonomics.com)
 * [Obsidian Portal](https://www.obsidianportal.com)
+* [World Anvil](https://www.worldanvil.com/)
+* [Scabard](https://www.scabard.com/pbs)
 
 ## Treasure
 
